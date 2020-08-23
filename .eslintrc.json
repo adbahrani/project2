@@ -13,7 +13,7 @@
   "rules": {
     "array-callback-return": "warn",
     "camelcase": "warn",
-    "curly": "warn",
+    // "curly": "warn",
     "dot-notation": "warn",
     "eqeqeq": "warn",
     "implicit-arrow-linebreak": ["warn", "beside"],
